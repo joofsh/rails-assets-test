@@ -1,0 +1,39 @@
+{
+  "name": "rails-assets-chosen",
+  "downloads": null,
+  "version": "1.4.2",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "Chosen is a JavaScript plugin that makes long, unwieldy select boxes much more user-friendly. It is currently available in both jQuery and Prototype flavors.",
+  
+  "licenses":  "[\"{\\\"type\\\"=>\\\"MIT\\\", \\\"url\\\"=>\\\"https://github.com/harvesthq/chosen/blob\"]",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "http://harvesthq.github.io/chosen",
+  "gem_uri": null,
+  "homepage_uri": "http://harvesthq.github.io/chosen",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "http://harvesthq.github.io/chosen",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    
+    {
+      "name": "rails-assets-jquery",
+      "requirements": ">= 1.4.4"
+    },
+    
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}
